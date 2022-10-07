@@ -1,0 +1,59 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "imageUrl": "some url here21231",
+      "name": "product name",
+      "count": "5",
+      "size": {
+        "height": "2"
+      },
+      "weight": "2",
+      "comments": [
+        "CommentModel",
+        "CommentModel"
+      ],
+      "imageURL": ""
+    },
+    {
+      "name": "asdadas",
+      "imageUrl": "1sdsa",
+      "count": "4",
+      "size": {
+        "width": "12",
+        "height": "321"
+      },
+      "weight": "312",
+      "id": 3
+    },
+    {
+      "name": "dassad",
+      "imageUrl": "dsadasd",
+      "count": "dsadasd",
+      "size": {
+        "width": "dasdsad",
+        "height": "dasdasd"
+      },
+      "weight": "dsadasdas",
+      "id": 4
+    },
+    {
+      "name": "wd",
+      "imageUrl": "dw",
+      "count": "wd",
+      "size": {
+        "width": "d",
+        "height": "w"
+      },
+      "weight": "dw",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ]
+}
